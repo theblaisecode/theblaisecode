@@ -15,11 +15,11 @@ Hi there 👋, I'm Blaise, a Front-End Engineer, building my version of the digi
 *   🌍  I'm based in Lagos, Nigeria
 *   🧠  I'm currently learning JavaScript
 *   🚀  I enjoy contributing to open source
-*   💻  I'm open to Internships and Part-time opportunities
+*   💻  I'm open to internships and part-time opportunities
 *   ✉️  You can find me on all social media [@theblaisecode](@theblaisecode)
-*   🤝  I'm open to collaborating on any interesting web-based project
+*   🤝  I'm open to collaborating on any web-based project
 *   ⚡  **Fun fact:** I love puzzles, anime, and video games
-<!-- *   🌐  Explore my portfolio at [TheBlaiseCode Portfolio](https://theblaisecode.netlify.app/) -->
+<!-- *   🌐  Explore my portfolio at [TheBlaiseCode Portfolio](https://theblaisecode/) -->
 
 <br/>
 
