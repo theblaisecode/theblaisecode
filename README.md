@@ -222,5 +222,20 @@ Hi there 👋, I'm Blaise, a Front-End Engineer, building my version of the digi
 
 ---  
 
-![Snake animation](https://github.com/theblaisecode/theblaisecode/blob/output/github-contribution-grid-snake-dark.svg)
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/theblaisecode/theblaisecode/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/theblaisecode/theblaisecode/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/theblaisecode/theblaisecode/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+<!-- ![Snake animation](https://github.com/theblaisecode/theblaisecode/blob/output/github-contribution-grid-snake-dark.svg) -->
 
