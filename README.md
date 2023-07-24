@@ -1,6 +1,6 @@
 ![github banner 1](https://github.com/theblaisecode/imnotsureyet/assets/89015653/ef090987-993e-4476-8169-6dc961c6b521)
 
-# 👽 Blaise Nwachukwu
+## 👽 Blaise Nwachukwu
 
 **`{{ inside curly braces }}`**
 
