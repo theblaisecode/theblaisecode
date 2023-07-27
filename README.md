@@ -28,12 +28,24 @@ Hi there 👋, I'm Blaise, a Front-End Engineer, building my version of the digi
 
 <!-- Social icons section -->
 
-[![Twitter Badge](https://img.shields.io/badge/-twitter-00C7F7?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/theblaisecode)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-e84393?style=for-the-badge&labelColor=bf397a&logo=instagram&logoColor=white)](https://instagram.com/theblaisecode)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-139ddd?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theblaisecode/)
-[![Codepen Badge](https://img.shields.io/badge/Codepen-f2f2f2?style=for-the-badge&labelColor=595959&logo=codepen&logoColor=white)](https://codepen.io/theblaisecode)
-[![Linktree Badge](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&labelColor=16b58d&logo=linktree&logoColor=white)](https://linktr.ee/theblaisecode)
-[![Mail Badge](https://img.shields.io/badge/-mail-E94134?style=for-the-badge&labelColor=CC2D29&logo=gmail&logoColor=white)](mailto:theblaisecode@gmail.com)
+<a href="https://twitter.com/theblaisecode" target="_blank">
+   <img src="https://img.shields.io/badge/-twitter-00C7F7?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white" />
+</a>
+<a href="https://instagram.com/theblaisecode" target="_blank">
+   <img src="https://img.shields.io/badge/-instagram-e84393?style=for-the-badge&labelColor=bf397a&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/theblaisecode/" target="_blank">
+   <img src="https://img.shields.io/badge/-LinkedIn-139ddd?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://codepen.io/theblaisecode" target="_blank">
+   <img src="https://img.shields.io/badge/Codepen-f2f2f2?style=for-the-badge&labelColor=595959&logo=codepen&logoColor=white" />
+</a>
+<a href="https://linktr.ee/theblaisecode" target="_blank">
+   <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&labelColor=16b58d&logo=linktree&logoColor=white" />
+</a>
+<a href="mailto:theblaisecode@gmail.com" target="_blank">
+   <img src="https://img.shields.io/badge/-mail-E94134?style=for-the-badge&labelColor=CC2D29&logo=gmail&logoColor=white" />
+</a>
 
 ---
 
