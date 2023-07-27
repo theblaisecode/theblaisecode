@@ -1,4 +1,4 @@
-![github banner 1](https://github.com/theblaisecode/imnotsureyet/assets/89015653/ef090987-993e-4476-8169-6dc961c6b521)
+![github banner](https://github.com/theblaisecode/theblaisecode/assets/89015653/30413848-2777-44b9-8c10-6448adc1b3db)
 
 ## 👽 Blaise Nwachukwu
 
