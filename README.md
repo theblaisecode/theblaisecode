@@ -49,7 +49,7 @@ Hi there 👋, I'm Blaise, a Front-End Engineer, building my version of the digi
          <h3 align="center">Studio L'Art</h3>
          <br />
          <a target="_blank" href="https://theblaisecode.github.io/Studio-L-art/">
-            <img src="images/studio.gif" width="100%" alt="Travel App" />
+            <img src="images/studio.gif" width="100%" alt="Studio L'Art" />
          </a>
          <br />
          <br />
@@ -76,7 +76,7 @@ Hi there 👋, I'm Blaise, a Front-End Engineer, building my version of the digi
             target="_blank"
             href="https://theblaisecode.github.io/Anime-Project/"
          >
-            <img src="images/anime.gif" width="100%" alt="Anime Selection" />
+            <img src="images/anime.gif" width="100%" alt="Anime Verse" />
          </a>
          <br />
          <br />
@@ -111,7 +111,7 @@ Hi there 👋, I'm Blaise, a Front-End Engineer, building my version of the digi
          <br />
          <br />
          <p align="center">
-            <a href="https://github.com/theblaisecode" target="_blank">
+            <a href="https://github.com/theblaisecode/portfolio" target="_blank">
                <img
                   src="https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=white"
                />
@@ -127,24 +127,24 @@ Hi there 👋, I'm Blaise, a Front-End Engineer, building my version of the digi
          </p>
       </td>
       <td width="50%" valign="top">
-         <h3 align="center">Matching Cards</h3>
+         <h3 align="center">Crave Restaurant</h3>
          <br />
-         <a target="_blank" href="https://poke-matchcards.netlify.app/">
+         <a target="_blank" href="https://theblaisecode.github.io/Crave">
             <img
-               src="images/gif3.gif"
+               src="images/crave.gif"
                width="100%"
-               alt="Matching Cards"
+               alt="Crave Restaurant"
             />
          </a>
          <br />
          <br />
          <p align="center">
-            <a href="https://github.com/theblaisecode" target="_blank">
+            <a href="https://github.com/theblaisecode/Crave" target="_blank">
                <img
                   src="https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=white"
                />
             </a>
-            <a href="https://poke-matchcards.netlify.app" target="_blank">
+            <a href="https://theblaisecode.github.io/Crave" target="_blank">
                <img
                   src="https://img.shields.io/badge/WEBSITE-BEE392?style=for-the-badge&logo=wordpress&logoColor=black"
                />
