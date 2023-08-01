@@ -190,7 +190,8 @@ Hi there 👋, I'm Blaise, a Front-End Engineer, building my version of the digi
 <table>
   <tr>
     <td width="50%">
-      <img alt="Blaise Nwachukwu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=theblaisecode&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/>
+<!--       <img alt="Blaise Nwachukwu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=theblaisecode&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/> -->
+      <img alt="Blaise Nwachukwu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=theblaisecode&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false"/>
     </td>
     <td width="50%">
       <img alt="Blaise Nwachukwu's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=theblaisecode&theme=nightowl&hide_border=true"/>
