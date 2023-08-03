@@ -111,11 +111,6 @@ Hi there 👋, I'm Blaise, a Front-End Engineer, building my version of the digi
          <br />
          <br />
          <p align="center">
-            <a href="https://github.com/theblaisecode/portfolio" target="_blank">
-               <img
-                  src="https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=white"
-               />
-            </a>
             <a href="https://theblaisecode.netlify.app/" target="_blank">
                <img
                   src="https://img.shields.io/badge/WEBSITE-BEE392?style=for-the-badge&logo=wordpress&logoColor=black"
