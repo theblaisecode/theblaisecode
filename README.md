@@ -15,11 +15,11 @@ Hi there 👋, I'm Blaise, a Front-End Engineer, building my version of the digi
 *   🌍  I'm based in Lagos, Nigeria
 *   🧠  I'm currently learning JavaScript
 *   🚀  I enjoy contributing to open source
+*   🌐  Explore my portfolio at [TheBlaiseCode Portfolio](https://theblaisecode.netlify.app/)
 *   💻  I am currently open to full-time, contract, or part-time opportunities in Front-End Engineering
 *   ✉️  You can find me on all social media [@theblaisecode](@theblaisecode)
 *   🤝  I'm open to collaborating on any web-based project
 *   ⚡  **Fun fact:** I love puzzles, anime, and video games
-<!-- *   🌐  Explore my portfolio at [TheBlaiseCode Portfolio](https://theblaisecode/) -->
 
 <br/>
 
@@ -100,7 +100,7 @@ Hi there 👋, I'm Blaise, a Front-End Engineer, building my version of the digi
          </p>
       </td>
    </tr>
-<!--
+
    <tr>
       <td width="50%" valign="top">
          <h3 align="center">TheBlaiseCode</h3>
@@ -151,7 +151,7 @@ Hi there 👋, I'm Blaise, a Front-End Engineer, building my version of the digi
             trading card themes, Pokemon, Yugioh, & Magic: The Gathering!
          </p>
       </td>
-   </tr> -->
+   </tr> 
 </table>
 
 <br/>
