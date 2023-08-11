@@ -146,9 +146,7 @@ Hi there 👋, I'm Blaise, a Front-End Engineer, building my version of the digi
             </a>
          </p>
          <p>
-            <strong>HTML5, CSS3, & Javascript</strong> - With over 100
-            different cards, test your memory in these three popular
-            trading card themes, Pokemon, Yugioh, & Magic: The Gathering!
+            <strong>HTML5, CSS3, & Javascript</strong> - Experience a culinary symphony of flavor at Crave restaurant, where each dish is an artful masterpiece crafted with passion and precision.
          </p>
       </td>
    </tr> 
