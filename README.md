@@ -14,7 +14,7 @@ Hi there 👋, I'm Blaise, a Front-End Engineer, building my version of the digi
 
 *   🌍  I'm based in Lagos, Nigeria
 *   🧠  I'm currently learning JavaScript
-*   🚀  I enjoy contributing to open source
+*   🚀  I enjoy contributing to open-source
 *   🌐  Explore my portfolio at [TheBlaiseCode Portfolio](https://theblaisecode.netlify.app/)
 *   💻  I am currently open to full-time, contract, or part-time opportunities in Front-End Engineering
 *   ✉️  You can find me on all social media [@theblaisecode](@theblaisecode)
@@ -164,6 +164,7 @@ Hi there 👋, I'm Blaise, a Front-End Engineer, building my version of the digi
 [![Html Badge](https://img.shields.io/badge/-html5-E9562F?style=for-the-badge&labelColor=black&logo=html5&logoColor=E9562F)](#)
 [![Css Badge](https://img.shields.io/badge/-css3-279fd4?style=for-the-badge&labelColor=black&logo=css3&logoColor=279fd4)](#)
 [![Sass Badge](https://img.shields.io/badge/-Sass-hotpink?style=for-the-badge&labelColor=black&logo=sass&logoColor=hotpink)](#)
+[![Tailwind Badge](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Git Badge](https://img.shields.io/badge/-Git-F34F29?style=for-the-badge&labelColor=black&logo=git&logoColor=F34F29)](#)
 [![Github Badge](https://img.shields.io/badge/-Github-f2f2f2?style=for-the-badge&labelColor=black&logo=github&logoColor=ffffff)](#)
@@ -183,12 +184,12 @@ Hi there 👋, I'm Blaise, a Front-End Engineer, building my version of the digi
 <table>
   <tr>
     <td width="50%">
- <img alt="Blaise Nwachukwu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=theblaisecode&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true"/>
-<!--  <img alt="Blaise Nwachukwu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=theblaisecode&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/> -->
-<!--  <img alt="Blaise Nwachukwu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=theblaisecode&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/> -->
+       <img alt="Blaise Nwachukwu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=theblaisecode&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true"/>
     </td>
     <td width="50%">
-      <img alt="Blaise Nwachukwu's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=theblaisecode&theme=nightowl&hide_border=true"/>
+       <img alt="Blaise Nwachukwu's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=theblaisecode&theme=nightowl&hide_border=true"/>
+<!--       <img alt="Blaise Nwachukwu's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=theblaisecode&theme=nightowl&hide_border=true"/> -->
+<!--       <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulj9a&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /> -->
     </td>
     <!-- <td>
       <img alt="Blaise Nwachukwu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theblaisecode&langs_count=8&count_private=true&layout=compact&theme=nightowl&hide_border=true"/>
