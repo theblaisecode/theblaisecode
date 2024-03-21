@@ -157,7 +157,7 @@ Hi there 👋, I'm Blaise, a Front-End Engineer, building my version of the digi
 ### 🧰 Languages and Tools
 
 #
-#00d1f7
+
 <!-- TODO: Make technologies links takes you to repositories -->
 <br/>
 
@@ -166,8 +166,7 @@ Hi there 👋, I'm Blaise, a Front-End Engineer, building my version of the digi
 [![Sass Badge](https://img.shields.io/badge/-Sass-hotpink?style=for-the-badge&labelColor=black&logo=sass&logoColor=hotpink)](#)
 [![Tailwind Badge](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&labelColor=black&logo=react&logoColor=20232A)](#)
-[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+[![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#)
 [![Git Badge](https://img.shields.io/badge/-Git-F34F29?style=for-the-badge&labelColor=black&logo=git&logoColor=F34F29)](#)
 [![Github Badge](https://img.shields.io/badge/-Github-f2f2f2?style=for-the-badge&labelColor=black&logo=github&logoColor=ffffff)](#)
 [![Canva Badge](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&labelColor=black&logo=canva&logoColor=0FBFC7)](#)
