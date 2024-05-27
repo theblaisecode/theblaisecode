@@ -17,7 +17,7 @@ Hi there 👋, I'm Blaise, a Front-End Engineer, building my version of the digi
 *   🚀  I enjoy contributing to open-source
 *   🌐  Explore my portfolio at [TheBlaiseCode Portfolio](https://theblaisecode.netlify.app/)
 *   💻  I am currently open to full-time, contract, or part-time opportunities in Front-End Engineering
-*   ✉️  You can find me on all social media [@theblaisecode](@theblaisecode)
+*   ✉️  You can find me on all social media [@theblaisecode](https://linktr.ee/theblaisecode)
 *   🤝  I'm open to collaborating on any web-based project
 *   ⚡  **Fun fact:** I love puzzles, anime, and video games
 
