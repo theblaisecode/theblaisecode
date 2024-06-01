@@ -19,7 +19,7 @@ Hi there 👋, I'm Blaise, a Front-End Engineer, building my version of the digi
 *   💻  I am currently open to full-time, contract, or part-time opportunities in Front-End Engineering
 *   ✉️  You can find me on all social media platforms [@theblaisecode](https://linktr.ee/theblaisecode)
 *   🤝  I'm open to collaborating on any web-based project
-*   ⚡  **Fun fact:** I love puzzles, anime, and video games
+*   ⚡  **Fun fact:** I love puzzles, anime, and video games,
 
 <br/>
 
