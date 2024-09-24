@@ -177,9 +177,14 @@ Hi there 👋, I'm Blaise, a Front-End Engineer, building my version of the digi
 [![Photoshop Badge](https://img.shields.io/badge/-Photoshop-2FA3F7?style=for-the-badge&labelColor=black&logo=adobephotoshop&logoColor=2FA3F7)](#)
 [![AdobeXD Badge](https://img.shields.io/badge/-AdobeXD-F72ABE?style=for-the-badge&labelColor=black&logo=adobexd&logoColor=F72ABE)](#)
 
-<!-- [![Redux Toolkit Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&labelColor=black&logo=redux&logoColor=593D88)](#)
+<!-- 
+
+[![Redux Toolkit Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&labelColor=black&logo=redux&logoColor=593D88)](#)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)](#)
-[![NextJS Badge](https://img.shields.io/badge/Next.js-white?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](#) -->
+[![NextJS Badge](https://img.shields.io/badge/Next.js-white?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](#) 
+https://github.com/inttter/md-badges - All badges
+
+-->
 
 <br/>
 
