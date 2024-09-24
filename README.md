@@ -172,7 +172,7 @@ Hi there 👋, I'm Blaise, a Front-End Engineer, building my version of the digi
 <!-- [![Redux Toolkit Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&labelColor=black&logo=redux&logoColor=593D88)](#)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)](#)
 [![NextJS Badge](https://img.shields.io/badge/Next.js-white?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](#) -->
-[![Styled Component Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=DB7093)](#)
+[![Styled Component Badge](https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=DB7093)](#)
 [![Git Badge](https://img.shields.io/badge/-Git-F34F29?style=for-the-badge&labelColor=black&logo=git&logoColor=F34F29)](#)
 [![Github Badge](https://img.shields.io/badge/-Github-f2f2f2?style=for-the-badge&labelColor=black&logo=github&logoColor=ffffff)](#)
 [![Canva Badge](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&labelColor=black&logo=canva&logoColor=0FBFC7)](#)
