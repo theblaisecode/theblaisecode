@@ -169,9 +169,6 @@ Hi there 👋, I'm Blaise, a Front-End Engineer, building my version of the digi
 [![Greensock Badge](https://img.shields.io/badge/-GreenSock-88CE02?style=for-the-badge&labelColor=black&logo=GreenSock&logoColor=88CE02)](#)
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#)
 [![React Router Badge](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&labelColor=black&logo=react-router&logoColor=CA4245)](#)
-<!-- [![Redux Toolkit Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&labelColor=black&logo=redux&logoColor=593D88)](#)
-[![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)](#)
-[![NextJS Badge](https://img.shields.io/badge/Next.js-white?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](#) -->
 [![Styled Component Badge](https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=DB7093)](#)
 [![Git Badge](https://img.shields.io/badge/-Git-F34F29?style=for-the-badge&labelColor=black&logo=git&logoColor=F34F29)](#)
 [![Github Badge](https://img.shields.io/badge/-Github-f2f2f2?style=for-the-badge&labelColor=black&logo=github&logoColor=ffffff)](#)
@@ -179,6 +176,10 @@ Hi there 👋, I'm Blaise, a Front-End Engineer, building my version of the digi
 [![Figma Badge](https://img.shields.io/badge/-Figma-EA4C1D?style=for-the-badge&labelColor=black&logo=figma&logoColor=ffffff)](#)
 [![Photoshop Badge](https://img.shields.io/badge/-Photoshop-2FA3F7?style=for-the-badge&labelColor=black&logo=adobephotoshop&logoColor=2FA3F7)](#)
 [![AdobeXD Badge](https://img.shields.io/badge/-AdobeXD-F72ABE?style=for-the-badge&labelColor=black&logo=adobexd&logoColor=F72ABE)](#)
+
+<!-- [![Redux Toolkit Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&labelColor=black&logo=redux&logoColor=593D88)](#)
+[![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)](#)
+[![NextJS Badge](https://img.shields.io/badge/Next.js-white?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](#) -->
 
 <br/>
 
