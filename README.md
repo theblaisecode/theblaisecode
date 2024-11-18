@@ -13,7 +13,7 @@ Hi there 👋 I'm Blaise, a Front-End Engineer, building my version of the digit
 #
 
 *   🌍  I'm based in Lagos, Nigeria
-*   🧠  I'm currently learning ReactJS
+*   🧠  I'm currently learning TypeScript
 *   🚀  I enjoy contributing to open-source
 *   🌐  Explore my portfolio at [TheBlaiseCode Portfolio](https://theblaisecode.netlify.app/)
 *   💻  I am currently open to full-time, contract, or part-time opportunities in Front-End Engineering
@@ -170,6 +170,8 @@ Hi there 👋 I'm Blaise, a Front-End Engineer, building my version of the digit
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#)
 [![React Router Badge](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&labelColor=black&logo=react-router&logoColor=CA4245)](#)
 [![Styled Component Badge](https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=DB7093)](#)
+[![Redux Toolkit Badge](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&labelColor=black&logo=redux&logoColor=593D88)](#)
+[![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)](#)
 [![Git Badge](https://img.shields.io/badge/-Git-F34F29?style=for-the-badge&labelColor=black&logo=git&logoColor=F34F29)](#)
 [![Github Badge](https://img.shields.io/badge/-Github-f2f2f2?style=for-the-badge&labelColor=black&logo=github&logoColor=ffffff)](#)
 [![Canva Badge](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&labelColor=black&logo=canva&logoColor=0FBFC7)](#)
@@ -179,8 +181,6 @@ Hi there 👋 I'm Blaise, a Front-End Engineer, building my version of the digit
 
 <!-- 
 
-[![Redux Toolkit Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&labelColor=black&logo=redux&logoColor=593D88)](#)
-[![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)](#)
 [![NextJS Badge](https://img.shields.io/badge/Next.js-white?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](#) 
 https://github.com/inttter/md-badges - All badges
 
