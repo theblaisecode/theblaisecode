@@ -196,22 +196,24 @@ https://github.com/inttter/md-badges - All badges
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33.3%">
        <img alt="Blaise Nwachukwu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=theblaisecode&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true"/>
     </td>
-    <td width="50%">
-       
-<!--  <img alt="Blaise Nwachukwu's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=elliezub&theme=nightowl&hide_border=true"/>-->
-<img alt="Blaise Nwachukwu's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=theblaisecode&theme=nightowl&hide_border=true"/>
-<!--    <img alt="Blaise Nwachukwu's Github Streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theblaisecode&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+    <td width="33.3%">
        <img alt="Blaise Nwachukwu's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=theblaisecode&theme=nightowl&hide_border=true"/>
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulj9a&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /> -->
     </td>
-    <!-- <td>
-      <img alt="Blaise Nwachukwu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theblaisecode&langs_count=8&count_private=true&layout=compact&theme=nightowl&hide_border=true"/>
-    </td> -->
+    <td width="33.3%">
+       <img alt="Blaise Nwachukwu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theblaisecode&langs_count=8&count_private=true&layout=compact&theme=nightowl&hide_border=true"/>
+    </td>
   </tr>
 </table>
+       
+<!--  <img alt="Blaise Nwachukwu's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=elliezub&theme=nightowl&hide_border=true"/>-->
+<!--    <img alt="Blaise Nwachukwu's Github Streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theblaisecode&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+       <img alt="Blaise Nwachukwu's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=theblaisecode&theme=nightowl&hide_border=true"/>
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulj9a&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />  
+      <img alt="Blaise Nwachukwu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theblaisecode&langs_count=8&count_private=true&layout=compact&theme=nightowl&hide_border=true"/>
+     -->
 
 <!-- ---
 
