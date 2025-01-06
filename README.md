@@ -196,15 +196,15 @@ https://github.com/inttter/md-badges - All badges
 
 <table>
   <tr>
-    <td width="33.3%">
+    <td width="50%">
        <img alt="Blaise Nwachukwu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=theblaisecode&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true"/>
     </td>
-    <td width="33.3%">
+    <td width="50%">
        <img alt="Blaise Nwachukwu's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=theblaisecode&theme=nightowl&hide_border=true"/>
     </td>
-    <td width="33.3%">
+<!--     <td width="33.3%">
        <img alt="Blaise Nwachukwu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theblaisecode&langs_count=8&count_private=true&layout=compact&theme=nightowl&hide_border=true"/>
-    </td>
+    </td> -->
   </tr>
 </table>
        
