@@ -13,7 +13,7 @@ Hi there 👋 I'm Blaise, a Front-End Engineer, building my version of the digit
 #
 
 *   🌍  I'm based in Lagos, Nigeria
-*   🧠  I'm currently learning TypeScript
+*   🧠  I'm a JavaScript, TypeScript and React Dev
 *   🚀  I enjoy contributing to open-source
 *   🌐  Explore my portfolio at [TheBlaiseCode Portfolio](https://theblaisecode.netlify.app/)
 *   💻  I am currently open to full-time, contract, or part-time opportunities in Front-End Engineering
